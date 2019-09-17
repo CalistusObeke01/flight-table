@@ -1,0 +1,64 @@
+
+#center-table {
+	width: 750px; 
+	margin: 0 auto; 
+	background: #efefef;
+}
+
+a:hover {
+	color: rgba(0, 0, 0, 1);
+}
+
+.small-text {
+	font-size: 12px;
+	color: grey;
+}
+
+.airlines {
+	text-align: center;
+}
+
+table {
+	border-collapse: collapse;
+	margin-left: 10px;
+}
+
+td {
+	background: white;
+}
+
+.border-top {
+	border-top: 10px solid #efefef;
+}
+
+.but-style {
+	cursor: pointer; 
+	margin-top: 10px;
+}
+
+.trip-position {
+	padding-bottom: 12px; 
+	padding-left: 20px;
+}
+
+.img-align {
+	text-align: center; 
+	padding-top: 24px;
+}
+
+.select-column {
+	padding:0 12px; 
+	border-left: 2px solid #efefef; 
+	border-bottom: 10px solid #efefef;
+}
+
+button {
+	padding: 7px 18px;
+	background: rgb(255, 105, 51);
+	color: #fff;
+	border: none;
+}
+
+button:hover {
+	background: rgba(255, 105, 51, 0.8);
+}
